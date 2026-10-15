@@ -1,0 +1,22 @@
+﻿Section,Visual,Fields / content,Suggested placement,Style
+Header,Text box,Olist E-Commerce Analytics; Sales • Customers • Orders • Payments • Reviews,Top; beside logo,"Navy title, Segoe UI Semibold 24–28 pt"
+Filters,Date slicer,Calendar[Date],Top-right,"White card, thin pale-blue border"
+Filters,Dropdown slicers,customer_state; customer_city; product_category_name_english; seller_id,Top-right row,"White background, 10 pt"
+KPI row,Card,Total Orders,Below header,26 pt navy callout; blue cart icon
+KPI row,Card,Total Item Sales,Below header,26 pt navy callout; pale cyan tint
+KPI row,Card,Total Freight,Below header,26 pt navy callout; pale blue tint
+KPI row,Card,Total Payment Value,Below header,26 pt navy callout; pale coral tint
+KPI row,Card,Unique Customers,Below header,26 pt navy callout; pale blue tint
+KPI row,Card,Average Review Score,Below header,26 pt navy callout; pale amber tint
+KPI row,Card,Total Products,Below header,26 pt navy callout; pale purple tint
+KPI row,Card,Total Sellers,Below header,26 pt navy callout; pale blue tint
+Main charts,Line chart,"Sales, Freight, Payment Value by Calendar[MMM-YYYY]",Left 42%; middle row,"Blue, cyan, coral; thin pale gridlines"
+Main charts,Donut chart,Order count by order_status,Center 28%; middle row,Green dominant; amber/coral for exceptions
+Main charts,Bar chart + map,Orders by customer_state,Right 30%; middle row,Blue gradient; state ranking bars
+Secondary charts,Bar chart,Sales by product category (Top 10),Left 25%; row 3,"Blue bars, labels 9–10 pt"
+Secondary charts,Bar chart,Top 10 cities by orders,Left-center 22%; row 3,"Blue bars, labels 9–10 pt"
+Secondary charts,Donut chart,Payment value by payment_type,Center 27%; row 3,"Blue, cyan, amber, coral"
+Secondary charts,Map + bar chart,Customer distribution by state,Right 26%; row 3,"Light blue map, darker selected states"
+Bottom row,Table,"Recent orders: order_id, customer_city, customer_state, order_purchase_timestamp, order_status, Payment Value",Left 42%; bottom,"Pale-blue header, subtle grid"
+Bottom row,Cards,Average Delivery Days; On-Time Delivery Rate; Average Delay Days; Estimated vs Actual,Center 28%; bottom,Blue/green/amber status icons
+Bottom row,Column chart,Review score distribution; Average Review Score,Right 30%; bottom,Blue columns; highlight score 1 in coral

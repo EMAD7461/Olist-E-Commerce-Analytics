@@ -1,0 +1,14 @@
+﻿Artifact,Exists,Rows before export,Rows after read-back,Columns before export,Columns after read-back,Status
+olist_customers_dataset.csv,True,99441,99441,5,5,PASS
+olist_geolocation_dataset.csv,True,1000163,1000163,5,5,PASS
+olist_order_items_dataset.csv,True,112650,112650,7,7,PASS
+olist_order_payments_dataset.csv,True,103886,103886,5,5,PASS
+Order_Payments_Summary.csv,True,99440,99440,2,2,PASS
+Order_Reconciliation.csv,True,98666,98666,9,9,PASS
+Order_Reconciliation_Exceptions.csv,True,371,371,9,9,PASS
+olist_order_reviews_dataset.csv,True,99224,99224,7,7,PASS
+olist_orders_dataset.csv,True,99441,99441,12,12,PASS
+olist_products_dataset.csv,True,32951,32951,10,10,PASS
+olist_sellers_dataset.csv,True,3095,3095,4,4,PASS
+product_category_name_translation.csv,True,71,71,2,2,PASS
+Junction_table_loc.csv,True,27,27,1,1,PASS

@@ -1,0 +1,6 @@
+﻿Table,Column,Non-null numeric values,Lower bound,Upper bound,Potential outliers,Outlier %
+olist_order_items_dataset,price,112650,-102.6,277.4,8427,7.480692410119841
+olist_order_items_dataset,freight_value,112650,0.9750000000000032,33.254999999999995,12134,10.771415889924544
+olist_order_payments_dataset,payment_value,103886,-115.78125000000003,344.40875000000005,7981,7.682459619197966
+olist_order_payments_dataset,payment_installments,103886,-3.5,8.5,6313,6.076853474000346
+olist_orders_dataset,Delivery_Delay_Days,96476,-32.0,8.0,4301,4.458103569799743
